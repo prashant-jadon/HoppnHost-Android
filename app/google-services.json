@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94331515524",
+    "project_id": "android-fest-ccb9e",
+    "storage_bucket": "android-fest-ccb9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94331515524:android:912562c7b9092a752248d1",
+        "android_client_info": {
+          "package_name": "chandra.networkdots.hoppnhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94331515524-usbae86lhr9237aaqi8b271u9i4kniek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLlJkWtcXk_LQ_D1WoWVk7s8QyZaulSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94331515524-usbae86lhr9237aaqi8b271u9i4kniek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
