@@ -104,6 +104,7 @@ public class SignupActivity extends AppCompatActivity {
                            startActivity(intent);
                        }else{
                            // Registration failed
+
                            Toast.makeText(
                                            getApplicationContext(),
                                            "Registration failed!!"
